@@ -1,0 +1,41 @@
+package giris;
+import java.sql.SQLOutput;
+import java.util.Scanner;
+public class class3 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Bir sayı giriniz: ");
+        int birsayi = input.nextInt();
+        for (int i = 4;i<=birsayi;i*=4){
+            System.out.println("Dördün kuvvetleri: "+i);
+
+
+            }
+        for (int j=5;j<=birsayi;j*=5){
+            System.out.println("Beşin kuvvetleri: "+j);
+        }
+            }
+
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
